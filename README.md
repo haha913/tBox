@@ -93,7 +93,7 @@ User-Agent: okHttp
 
 ------------------------------------------------
 ### 视频源配置链接
-旧版配置（限1.0.9~1.0.10版，后续不再维护，建议更新）：https://ghproxy.cn/https://raw.githubusercontent.com/tt9912/tBox/refs/heads/main/配置.json
+旧版配置（限1.0.9~1.0.10版，后续不再维护，建议更新）：https://ghproxy.cn/https://raw.githubusercontent.com/haha913/tBox/refs/heads/main/配置.json
 
 新版配置（限1.0.11版以上）：https://ghproxy.cn/https://raw.githubusercontent.com/haha913/tBox/refs/heads/main/new.json
 
