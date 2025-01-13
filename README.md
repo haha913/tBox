@@ -1,4 +1,3 @@
-点击加入群组：https://t.me/+vgu3e34l2PQ5NDA1
 
 ## APP简介
 tBox是一款多功能APP空壳，支持导入直播源、影视和听书源。
